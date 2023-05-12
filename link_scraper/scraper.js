@@ -1,5 +1,4 @@
 const puppeteer = require("puppeteer");
-const { promiseHooks } = require("v8");
 
 async function scrape_links(url) {
   const browser = await puppeteer.launch({ headless: true });
@@ -26,4 +25,5 @@ async function scrape_links(url) {
   console.log(arr.join());
 }
 const site = "https://www.w3schools.com/";
+
 scrape_links(site);
