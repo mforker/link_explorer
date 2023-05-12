@@ -1,4 +1,4 @@
-# link_explorer
+# link_explorer - A learning project
 
 Hello,
 
