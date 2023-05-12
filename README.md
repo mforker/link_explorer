@@ -10,4 +10,4 @@ The `scraper.js` file in the `link_scraper` folder is a script that does the fol
 - scrapes all the links form that page
 - stores it in array
 
-I understand that it very basic but I have just started to learn and have a log way to go.
+I understand that it is a very basic script but I have just started to learn and have a long way to go.
